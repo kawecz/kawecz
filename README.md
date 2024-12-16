@@ -71,7 +71,7 @@ I’m Kawe Cezar, a 20-year-old passionate about programming. My goal is to beco
     alt="Github Stats"
     height="200px" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawecz&theme=dracula&layout=compact" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawecz&theme=dracula&" 
 />
 
 
