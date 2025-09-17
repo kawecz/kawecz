@@ -52,7 +52,7 @@ I’m Kawe Cezar, a 20-year-old passionate about programming. My goal is to beco
 <img
     align="left"
     alt="MySQL"
-    height="35px"
+    height="40px"
     style="padding-right: 10px;"
     src ="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"          
 />
