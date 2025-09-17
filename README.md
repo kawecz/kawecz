@@ -44,15 +44,15 @@ I’m Kawe Cezar, a 20-year-old passionate about programming. My goal is to beco
 
 <img
     align="left"
-    alt="Github Stats"
+    alt="React"
     height="30px"
     style="padding-right: 10px;"
     src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
 />
 <img
     align="left"
-    alt="Github Stats"
-    height="30px"
+    alt="MySQL"
+    height="50px"
     style="padding-right: 10px;"
     src ="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"          
 />
