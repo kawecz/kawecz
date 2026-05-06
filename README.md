@@ -43,6 +43,42 @@ I’m Kawe Cezar, a 21-year-old passionate about programming. My goal is to beco
 />
 
 <img
+    align="left" 
+    alt="NodeJs"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" 
+/>
+<img
+    align="left" 
+    alt="Axios"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain.svg" 
+/>
+<img
+    align="left" 
+    alt="Express"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" 
+/>
+<img
+    align="left" 
+    alt="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img
+    align="left" 
+    alt="Github"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
+/>
+
+<img
     align="left"
     alt="React"
     height="30px"
@@ -55,6 +91,13 @@ I’m Kawe Cezar, a 21-year-old passionate about programming. My goal is to beco
     height="40px"
     style="padding-right: 10px;"
     src ="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"          
+/>
+<img
+    align="left"
+    alt="Linux"
+    height="40px"
+    style="padding-right: 10px;"
+    src ="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"          
 />
 
 <img
