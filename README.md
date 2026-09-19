@@ -2,7 +2,7 @@
 
 **`Front-end Developer`**
 
-I’m Kawe Cezar, a 21-year-old passionate about programming. My goal is to become a full-stack developer, but right now, I’m focusing on mastering front-end development as the first step in my journey.
+I’m Kawe Cezar, a 22-year-old passionate about programming. Full-Stack, developing front-end applications with JS/TS, React, Tailwind.css, GSAP, and Back-end development with Nodejs, Express.js, for Database - Mariadb.
 
 <p align="left">
       <a href="https://github.com/kawecz?tab=followers">
